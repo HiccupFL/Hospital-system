@@ -1,0 +1,112 @@
+[
+  {
+    "id": 25,
+    "name": "复方感冒灵颗粒",
+    "manufacturer": "江西民济药业股份有限公司",
+    "production_date": "2024-09-24",
+    "expiry_date": "2025-09-19",
+    "min_quantity": 60,
+    "current_quantity": 90,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 28,
+    "name": "复方板蓝根颗粒",
+    "manufacturer": "广州白云山和记黄埔中药有限公司",
+    "production_date": "2025-01-02",
+    "expiry_date": "2027-01-02",
+    "min_quantity": 70,
+    "current_quantity": 120,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 23,
+    "name": "头孢克肟胶囊",
+    "manufacturer": "国药集团致君(深圳)制药有限公司",
+    "production_date": "2024-11-23",
+    "expiry_date": "2025-11-18",
+    "min_quantity": 50,
+    "current_quantity": 65,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 22,
+    "name": "布洛芬片",
+    "manufacturer": "上海信谊药厂有限公司",
+    "production_date": "2024-12-23",
+    "expiry_date": "2025-12-18",
+    "min_quantity": 80,
+    "current_quantity": 75,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 27,
+    "name": "甲硝唑片",
+    "manufacturer": "华润双鹤药业股份有限公司",
+    "production_date": "2024-12-13",
+    "expiry_date": "2025-03-13",
+    "min_quantity": 40,
+    "current_quantity": 35,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 29,
+    "name": "盐酸左氧氟沙星片",
+    "manufacturer": "齐鲁制药有限公司",
+    "production_date": "2024-12-03",
+    "expiry_date": "2025-11-28",
+    "min_quantity": 45,
+    "current_quantity": 40,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 24,
+    "name": "盐酸氨溴索口服溶液",
+    "manufacturer": "北京双鹤药业股份有限公司",
+    "production_date": "2024-10-24",
+    "expiry_date": "2025-04-07",
+    "min_quantity": 30,
+    "current_quantity": 25,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 30,
+    "name": "硝苯地平缓释片",
+    "manufacturer": "北京诺华制药有限公司",
+    "production_date": "2024-11-13",
+    "expiry_date": "2026-11-13",
+    "min_quantity": 55,
+    "current_quantity": 80,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 26,
+    "name": "维生素C片",
+    "manufacturer": "华北制药股份有限公司",
+    "production_date": "2024-09-04",
+    "expiry_date": "2026-08-05",
+    "min_quantity": 120,
+    "current_quantity": 200,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  },
+  {
+    "id": 21,
+    "name": "阿莫西林胶囊",
+    "manufacturer": "哈药集团制药总厂",
+    "production_date": "2025-01-22",
+    "expiry_date": "2026-01-17",
+    "min_quantity": 100,
+    "current_quantity": 150,
+    "created_at": "2025-03-23 15:59:35",
+    "updated_at": "2025-03-23 15:59:35"
+  }
+]
